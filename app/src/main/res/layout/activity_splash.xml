@@ -57,7 +57,7 @@
         android:layout_marginEnd="16dp"
         android:layout_above="@id/developedBy"
         android:layout_marginBottom="12dp"
-        android:background="@drawable/blue_btn_bg"
+        android:background="@drawable/blue_btn_bg2"
         android:text=""
         android:foreground="@drawable/forward_icon"
         android:foregroundGravity="center"/>

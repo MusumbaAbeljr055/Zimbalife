@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zimbalife</string>
+    <string name="zimbalife_n_welcome_you">ZimbaLife\n Welcome You!!</string>
+    <string name="go">Go</string>
+    <string name="how_are_you_doing_today">How are you doing today?</string>
+    <string name="hi_user">Hi,User</string>
+</resources>

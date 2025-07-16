@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78443464091",
+    "project_id": "azimbalife055",
+    "storage_bucket": "azimbalife055.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78443464091:android:2052bd3d9d46618e4ecd3e",
+        "android_client_info": {
+          "package_name": "com.example.azimbalife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0T9YaXfCjI4r72wL5tN4kV7jq364aqCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

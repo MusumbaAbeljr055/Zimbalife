@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AZimbalife" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorSecondaryVariant">@color/my_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background and system bar -->
+        <item name="android:windowBackground">@color/off_white</item>
+        <item name="android:statusBarColor">@color/my_primary</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- dark icons on light status bar -->
+
+    </style>
+    <!-- Corrected corner image styles -->
+    <style name="cornerImage">
+        <item name="cornerSize">10dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <style name="fullCornerImage">
+        <!-- Note: 50% corner size is correct syntax for MaterialShapeDrawable -->
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <!-- Main app theme inheriting from base -->
+    <style name="Theme.AZimbalife" parent="Base.Theme.AZimbalife" />
+
+
+
+</resources>
